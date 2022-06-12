@@ -1,19 +1,4 @@
 
-<div align="center"> 
-<h1 align="center">本仓库不再维护</h1>
-<img src="https://img.shields.io/github/issues/Sunert/Scripts?color=green">
-<img src="https://img.shields.io/github/stars/Sunert/Scripts?color=yellow">
-<img src="https://img.shields.io/github/forks/Sunert/Scripts?color=orange">
-<img src="https://img.shields.io/github/license/Sunert/Scripts?color=ff69b4">
-<img src="https://img.shields.io/github/languages/code-size/Sunert/Scripts?color=blueviolet">
-</div>
-
-<br>
-
-[跳转到任务配置](https://github.com/Sunert/Scripts/tree/master/TaskConf) --- [跳转到脚本列表](https://github.com/Sunert/Scripts/tree/master/Task)
-
-***
-
 ## 免责声明: 
 
 * 本仓库发布的Script项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
